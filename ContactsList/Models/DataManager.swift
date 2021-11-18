@@ -10,6 +10,7 @@ import Foundation
 class DataManager {
 
     static let shared = DataManager()
+    
     let names = [
         "John", "Aaron", "Tim", "Ted",
         "Steven", "Sharon", "Nicola",
